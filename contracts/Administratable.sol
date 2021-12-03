@@ -1,6 +1,6 @@
 pragma solidity 0.5.0;
 
-import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
+import "https://github.com/bgors0589/openzeppelin/contracts/ownership/Ownable.sol";
 
 /**
 This contract allows a list of administrators to be tracked.  This list can then be enforced
