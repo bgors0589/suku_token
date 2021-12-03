@@ -1,6 +1,6 @@
 pragma solidity 0.5.0;
 
-import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
+import "https://github.com/bgors0589/openzeppelin/contracts/ownership/Ownable.sol";
 
 /**
 Restrictions start off as enabled.
